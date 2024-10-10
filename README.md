@@ -5,6 +5,6 @@ hack toll for Data collection and Find loopholes
 
 `cd farm_rest-2.0`
 
-`python3 farm-rest-2.0.py`
+`python3 farm_harvest(2.0).py`
 
-`url or mod:of`
+`url or mod:help`
